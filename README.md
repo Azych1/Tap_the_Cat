@@ -1,6 +1,6 @@
 # Tap the Cat
 
-Scripts and demo images of the game being developed for the Yandex.Games WebGL platform
+Scripts and demo images of the game being developed in Unity for the Yandex.Games WebGL platform
 
 ![Icon 1](Screenshots/1.png)
 
